@@ -5,9 +5,10 @@ i like iphones, yea
 and i go 010101 on some project rn
 
 <p align=center>
-  <a href="https://discord.gg/PaFbgFT"><img src="https://raw.githubusercontent.com/06Games/06Games/master/images/discord.png" width="250" /></a>
-  <a href="https://paypal.me/06games"><img src="https://raw.githubusercontent.com/06Games/06Games/master/images/paypal.png" width="250" /></a>
-  <a href="https://www.reddit.com/user/LVN_N"><img src="https://www.redditinc.com/assets/images/site/reddit-logo.png" width="250" /></a>
+  <a href="https://discord.gg/PaFbgFT"><img src="https://raw.githubusercontent.com/LIVENVARANE/LIVENVARANE/master/images/discord.png" width="250" /></a>
+  <a href="https://paypal.me/06games"><img src="https://raw.githubusercontent.com/LIVENVARANE/LIVENVARANE/master/images/twitter.png" width="250" /></a>
+  <a href="https://paypal.me/06games"><img src="https://raw.githubusercontent.com/LIVENVARANE/LIVENVARANE/master/images/reddit.png" width="250" /></a>
+  <a href="https://paypal.me/06games"><img src="https://raw.githubusercontent.com/LIVENVARANE/LIVENVARANE/master/images/paypal.png" width="250" /></a>
 </p>
 
 ### What I'm 010101-ing on rn
