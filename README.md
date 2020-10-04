@@ -1,7 +1,7 @@
 ### Heya 👋
 I'm LIVENVARANE, in caps
 
-i like iphones, yea
+i like iphones, yea<br>
 and i go 010101 on some project rn
 
 <p align=center>
@@ -12,8 +12,8 @@ and i go 010101 on some project rn
 </p>
 
 ### What I'm 010101-ing on rn
-* __Emer:__ More info s0n
-* __WazeDecoy:__ Waze decoying system
+* __Emer:__ More info s0n (Closed source for now)
+* __WazeDecoy:__ Waze decoying system (Closed source for now)
  
 
 ### More projects
