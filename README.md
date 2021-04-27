@@ -1,5 +1,5 @@
 ### Heya 👋
-I'm LIVENVARANE, in caps
+I'm LVN, in caps
 
 i like iphones, yea<br>
 and i go 010101 on some project rn
