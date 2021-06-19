@@ -13,7 +13,6 @@ and i go 010101 on some project rn
 
 ### What I'm 010101-ing on rn
 * __RLTrader:__  An RL Tool, more info s0n (Closed source for now)
-* __EduHub:__ EcoleDirecte alternaltive app (Closed source for now)
  
 
 ### More projects
