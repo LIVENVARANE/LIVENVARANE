@@ -12,7 +12,8 @@ and i go 010101 on some project rn
 </p>
 
 ### What I'm 010101-ing on rn
-* __RLTrader:__  An RL Tool, more info s0n (Closed source for now)
+* __Music:__ An Apple Music client for Windows, (private for now)
+* __WazeDecoy (GUI):__ Tool to place/schedule decoys on  Waze anywhere at anytime
  
 
 ### More projects
