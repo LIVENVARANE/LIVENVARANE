@@ -14,10 +14,11 @@ and i go 010101 on some project rn
 ### What I'm 010101-ing on rn
 * __Music:__ An Apple Music client for Windows, (private for now)
 * __WazeDecoy (GUI):__ Tool to place/schedule decoys on  Waze anywhere at anytime
+* A Spotify bot ?
  
 
 ### More projects
-On my website: https://livenvarane.github.io/otherprojects.html (_It's still WIP tho_)
+On my website: https://livenvarane.github.io/projects.html (_Rewrote & redisigned!_)
 
 <p align=center>
   <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=LIVENVARANE&show_icons=true&count_private=true" />
