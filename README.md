@@ -11,7 +11,7 @@ I'm LVN, in caps
 ### What I'm working on now
 * __Music:__ An Apple Music client for Windows, (private for now)
 * __WazeDecoy (GUI):__ Tool to place/schedule decoys on  Waze anywhere at anytime
-* A Spotify bot ?
+* Some other things
  
 
 ### More projects
