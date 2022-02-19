@@ -1,5 +1,5 @@
 ### Heya 👋
-I'm LVN, in caps
+I'm LVN, Lucas
 
 <p align=center>
   <a href="https://dsc.bio/france"><img src="https://raw.githubusercontent.com/LIVENVARANE/LIVENVARANE/main/images/discord.png" width="200" /></a>
