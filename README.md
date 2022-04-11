@@ -2,7 +2,6 @@
 I'm LVN, Lucas
 
 <p align=center>
-  <a href="https://dsc.bio/france"><img src="https://raw.githubusercontent.com/LIVENVARANE/LIVENVARANE/main/images/discord.png" width="200" /></a>
   <a href="https://twitter.com/LivenOff"><img src="https://raw.githubusercontent.com/LIVENVARANE/LIVENVARANE/main/images/twitter.png" width="200" /></a>
   <a href="https://reddit.com/u/LVN_N"><img src="https://raw.githubusercontent.com/LIVENVARANE/LIVENVARANE/main/images/reddit.png" width="200" /></a>
   <a href="https://paypal.me/livendon"><img src="https://raw.githubusercontent.com/LIVENVARANE/LIVENVARANE/main/images/paypal.png" width="200" /></a>
