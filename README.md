@@ -14,7 +14,7 @@ I'm LVN, Lucas
  
 
 ### More projects
-On my website: https://livenvarane.github.io/projects.html (_Rewrote & redisigned!_)
+On my website: https://livenvarane.github.io/projects.html (_Rewrote & redesigned!_)
 
 <p align=center>
   <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=LIVENVARANE&show_icons=true&count_private=true" />
