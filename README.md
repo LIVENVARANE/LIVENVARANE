@@ -1,4 +1,4 @@
-### Heya 👋
+### Hello 👋
 I'm LVN, Lucas
 
 <p align=center>
