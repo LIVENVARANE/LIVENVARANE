@@ -7,7 +7,7 @@ I'm LVN, Lucas
  
 
 ### More projects
-On my website: https://livenvarane.github.io/projects.html
+On my website: https://qlvn.github.io/projects.html
 
 <p align=center>
   <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=qLVN&show_icons=true&count_private=true" />
